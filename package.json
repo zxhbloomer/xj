@@ -11,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "antd-mobile": "^1.6.11",
     "expo": "^35.0.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
